@@ -1,0 +1,16 @@
+.todo-app {
+    text-align: center;
+}
+
+.todo-app input {
+    margin-right: 10px;
+}
+
+.todo-app ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todo-app li {
+    margin: 5px 0;
+}
